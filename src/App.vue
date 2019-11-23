@@ -23,7 +23,7 @@ export default {
         {
           id: 2,
           title: 'react.js',
-          completed: false
+          completed: true
         },
         {
           id: 3,
